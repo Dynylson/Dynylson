@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dynylson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tools that I use in a daily basis
+## Tools that I use
 
 <div style="display: flex">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
