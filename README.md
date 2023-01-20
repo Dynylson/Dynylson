@@ -1,4 +1,19 @@
-### Hello, I'm Dynylson Júnior🤗
+```typescript
+interface IBiographyProps {
+  name: string;
+  role: string;
+  favoriteMovies: string;
+  favoriteThings: string;
+}
+
+const Biography: IBiographyProps = {
+  name: "Dynylson Júnior",
+  role: "Student (yet)",
+  favoriteMovies: "Star Wars (all of them)",
+  favoriteThings: "Watch (anything), Play VideoGames (sometimes), Read Terror/Self-Help Books"
+}
+
+```
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
@@ -20,5 +35,3 @@
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=whit" alt="c#">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
 </div>
-
-#### I like play games, resolve problems and programming
