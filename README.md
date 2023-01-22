@@ -10,7 +10,7 @@ const Biography: IBiographyProps = {
   name: "Dynylson Júnior",
   role: "Student (yet)",
   favoriteMovies: "Star Wars (all of them)",
-  favoriteThings: "Watch (anything), Play VideoGames (sometimes), Read Terror/Self-Help Books"
+  favoriteThings: "Watch (anything), Play VideoGames (sometimes), Read Horror/Self-Help Books"
 }
 
 ```
