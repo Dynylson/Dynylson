@@ -19,7 +19,7 @@ const Biography: IBiographyProps = {
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dynylsonj/)
 
-![Dynylson GitHub stats](https://github-readme-stats.vercel.app/api?username=Dynylson&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dynylson&theme=omni&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dynylson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
