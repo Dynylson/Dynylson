@@ -1,12 +1,5 @@
-```typescript
-interface IBiographyProps {
-  name: string;
-  role: string;
-  favoriteMovies: string;
-  favoriteThings: string;
-}
-
-const Biography: IBiographyProps = {
+```javascript
+const biography = {
   name: "Dynylson Júnior",
   role: "Full Stack Developer Junior",
   tools: {
