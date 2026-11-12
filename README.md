@@ -1,15 +1,3 @@
-```javascript
-const biography = {
-  name: "Dynylson Júnior",
-  role: "Full Stack Developer Junior",
-  tools: {
-    languages: ['JavaScript', 'TypeScript', 'Java'],
-    os: ['Windows', 'Linux']
-  }
-}
-
-```
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dynylson-júnior-214298243/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dynylsonj/)
